@@ -1,3 +1,9 @@
-body {
-    background-color: red;
+.box-number {
+    font-size: 50px;
+
+    margin: 10px;
+}
+
+#timer {
+    font-size: 50px;
 }
